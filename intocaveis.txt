@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="pt-br" dir="ltr"
+
+<head>
+      
+    <meta charset="utf-8">
+
+    <title> </title>
+
+</head>
+
+<body>
+    <h1>Intocáveis</h1>
+
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgshow.globo.com%2FFamosos%2Fnoticia%2Fos-intocaveis-saiba-curiosidades-do-ator-frances-omar-sy.ghtml&psig=AOvVaw0_C9VddOymsfmmdfWyfZzr&ust=1679082022791000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjw5o-a4f0CFQAAAAAdAAAAABAE"
+
+    <p>
+
+    <h3>Resumo</h3>
+
+     O filme Intocáveis conta a história de uma amizade nascida de uma relação de trabalho entre patrão e funcionário. Philippe é um milionário, que após um acidente de parapente perde sua mulher, e também o movimento de seu corpo do pescoço para baixo. Philippe nunca se deu bem com nenhum de seus cuidadores. Até que conhece Driss, que o trata de forma nunca vista antes, fazendo com que Philippe goste de ter Driss como seu cuidador e logo depois como amigo.
+    </p>
+
+    <p>
+
+    <h3>Pontos Positivos</h3> 
+
+    Conseguimos ver um bom desenvolvimento da história ao longo do filme, uma ótima apresentação e identificação com os personagens, e a imersão no mundo do filme também é surreal.
+
+
+    </p>
+
+    <p>
+
+    <h3>Pontos Negativos</h3>
+
+    O dois únicos pontos negativos que consigo pensar são: o filme termina, e não foi feita uma continuação. 
+
+    </p>
+
+    <h3>Nota</h3>
+
+    Na nossa escala de 0 a 5 estrelas, a nota indiscutivelmente é 5 estrelas. É um filme impecável em questão de roteiro, elenco e além de tudo é baseado em fatos reais.
+
+
+
+    
+</body> 
